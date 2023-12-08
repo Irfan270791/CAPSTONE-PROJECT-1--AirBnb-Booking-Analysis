@@ -57,5 +57,3 @@ The goal of data exploration is to learn about characteristics and potential pro
 It can help with the detection of obvious errors, a better comprehension of data patterns, the detection of outliers or unexpected events, and the discovery of interesting correlations between variables.
 
 Data Science technologies are at the core of identifying drivers of trust to engage more users and find out novel ways on how to alleviate trust. Data science technology is the key differentiator for the rapid growth of AirBnB and how it is able to make better recommendations by matching the right people together.
-
-image
